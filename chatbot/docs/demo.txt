@@ -1,0 +1,37 @@
+================================================================================
+POLICY ID: HR-LP-2026 | SCOPE: Full-Time Employees | EFFECTIVE: Jan 1, 2026
+================================================================================
+
+[EARNED LEAVE / VACATION (EL)]
+- Accrual: 1.5 days per completed calendar month | Annual Cap: 18 days.
+- Carry-Forward: Max 30 days to next calendar year; excess days expire Dec 31.
+- Encashment: Allowed only upon separation (resignation/termination); formula: (Basic Salary / 30) * Accrued EL Days.
+- Notice: Require manager approval via HRIS 14 days in advance for >3 consecutive days.
+
+[SICK & CASUAL LEAVE (SCL)]
+- Allocation: 12 days per year (credited upfront on Jan 1) | Pro-rated for mid-year joiners.
+- Carry-Forward: Strictly 0 days; lapses automatically on Dec 31; non-encashable.
+- Documentation: Medical certificate mandatory for >2 consecutive days of Sick Leave.
+- Notification: Inform manager via email/Slack by 10:00 AM on the day of absence.
+
+[MATERNITY LEAVE (ML)]
+- Eligibility: 26 weeks paid leave | Applies to biological childbirth (up to 2 surviving children).
+- Adoption/Surrogacy: 12 weeks paid leave from the date of legal custody.
+- Extension: Max 4 weeks unpaid subject to medical board approval for complications.
+
+[PATERNITY LEAVE (PL)]
+- Allocation: 2 weeks (10 working days) paid leave | Valid for birth, adoption, or surrogacy.
+- Timeline: Must be utilized within 6 months of childbirth; cannot be split into multiple blocks.
+
+[BEREAVEMENT LEAVE (BL)]
+- Allocation: 5 consecutive working days per incident | Immediate family only (spouse, children, parents, siblings).
+- Documentation: No upfront proof required; HR reserves right to request documentation post-return.
+
+[COMPENSATORY OFF (COMP-OFF)]
+- Eligibility: Earned by working min 6 hours on weekend/public holiday with prior VP approval.
+- Validity: Expires exactly 60 days from the date earned; non-encashable.
+
+[HOLIDAYS & PARENTAL INTERACTION]
+- Holidays: 10 mandatory public holidays per year (published annually in HR Portal).
+- Leave Interruption: Public holidays falling during EL/SCL do not count as leave days.
+- Unpaid Leave (LWP): Permissible only after exhausting all EL/SCL balances; requires HR Head approval.

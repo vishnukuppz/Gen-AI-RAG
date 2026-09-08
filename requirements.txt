@@ -1,0 +1,30 @@
+# langchain and langSmith dependencies
+langchain
+langsmith
+langchain-community
+langchain-openai
+langchain-huggingface
+#Generating the chunk into smaller sentences for retreival
+langchain-text-splitters
+#Transforming the sentences into embeddings
+sentence-transformers
+# Loading environment (.env) variables
+python-dotenv
+
+#Hugging face libraries to run the model
+transformers
+torch
+accelerate
+
+#multi model support
+torchvision
+pillow
+
+#Vector storage DB
+faiss-cpu
+
+#PDF processing
+pypdf
+
+#Interactive UI
+streamlit

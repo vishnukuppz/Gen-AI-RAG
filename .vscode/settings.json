@@ -1,0 +1,4 @@
+{
+    "vectorExplorer.pythonPath": "${workspaceFolder}/.venv/bin/python",
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python"
+}
