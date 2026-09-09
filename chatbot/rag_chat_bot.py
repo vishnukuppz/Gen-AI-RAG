@@ -97,8 +97,8 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description="RAG Pipeline Runner")
     parser.add_argument("--provider", choices=["OpenAI", "HuggingFace"], default="OpenAI")
-    parser.add_argument("--doc", type=str, default=str(BASE_DIR / "docs" / "demo.txt"))
-    parser.add_argument("--query", type=str, default="What is the sick and casual leave allocation for a year?")
+    parser.add_argument("--doc", type=str, default=str(BASE_DIR / "docs" / "schema.txt"))
+    parser.add_argument("--query", type=str, default="")
     parser.add_argument("--skip-ingest", action="store_true", help="Skip re-ingestion if index already exists")
     args = parser.parse_args()
 

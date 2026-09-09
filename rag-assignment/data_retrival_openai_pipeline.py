@@ -30,7 +30,7 @@ embeddings = load_embedding()
 
 db = load_vector_db(embeddings)
 
-question = "25 May 2026 related logs"
+question = "How many logs for 23 Jul 2026."
 
 
 retrieved_docs = db.similarity_search(question, k=10)

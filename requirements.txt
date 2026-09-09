@@ -28,3 +28,6 @@ pypdf
 
 #Interactive UI
 streamlit
+
+#Automation web
+playwright
